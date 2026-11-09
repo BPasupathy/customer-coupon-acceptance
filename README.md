@@ -1,6 +1,6 @@
 ## Live Vercel deployment
 
-[Open the deployed project](https://customer-coupon-acceptance.vercel.app)
+[Open the deployed project](https://customer-coupon-acceptance-bpasupathy.vercel.app)
 
 # Customer Coupon Acceptance Analysis
 
