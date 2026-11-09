@@ -1,3 +1,7 @@
+## Live Vercel deployment
+
+[Open the deployed project](https://customer-coupon-acceptance.vercel.app)
+
 # Customer Coupon Acceptance Analysis
 
 An exploratory statistical analysis of the UCI **In-Vehicle Coupon Recommendation** dataset. The objective is to understand which driving, demographic and visit-frequency contexts are associated with coupon acceptance, then translate those findings into practical merchant and mobile-marketing recommendations.
